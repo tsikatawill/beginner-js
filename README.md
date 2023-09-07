@@ -1,2 +1,2 @@
 # beginner-js
-Teaching my buddy JS
+Teaching my friend JS
